@@ -11,4 +11,3 @@ npm install
 npm run start
 ~~~
 
-More at [Moodydev.io](http://moodydev.io "Moodydev")
